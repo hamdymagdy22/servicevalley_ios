@@ -1,0 +1,6 @@
+framework module Pods_Service_Valley {
+  umbrella header "Pods-Service Valley-umbrella.h"
+
+  export *
+  module * { export * }
+}
